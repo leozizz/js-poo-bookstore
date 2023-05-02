@@ -17,3 +17,5 @@ module.exports = class Product {
         this.inStock -= quantity
     }
 }
+
+//addToStock / removeFromStock -> são métodos úteis quando se utiliza do encapsulamento para definir as quantidades.

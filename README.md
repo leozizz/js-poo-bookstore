@@ -1,5 +1,7 @@
 #JS POO BOOKSTORE
 
+As classes criadas publicamente apenas para testes e visualização de alguns valores
+
 ## Estrutura
 
 ### Classes utilizados:
