@@ -4,6 +4,11 @@ As classes criadas publicamente apenas para testes e visualização de alguns va
 
 ## Estrutura
 
+- Pasta "entities" : Possui as entidades/classes da aplicação
+
+- App.js : Arquivo responsável pela interação entre as classes.
+- Database.js : Simulação de uma base de dados onde as informações estarão salvas.
+
 ### Classes utilizados:
 1. User - Contém as informações de um usuário
 2. Author - Contém as informações de um autor
