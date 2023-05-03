@@ -8,6 +8,7 @@ As classes criadas publicamente apenas para testes e visualização de alguns va
 
 - App.js : Arquivo responsável pela interação entre as classes.
 - Database.js : Simulação de uma base de dados onde as informações estarão salvas.
+- index.js : Arquivo para testar e interagir com a aplicação.
 
 ### Classes utilizados:
 1. User - Contém as informações de um usuário
