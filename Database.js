@@ -2,7 +2,7 @@ module.exports = class Database {
     // Atributo privado que armazena em um objeto um array para cada entidade salva.
     #storage = {
         authors: [],
-        books: ["Teste"],
+        books: [],
         posters: [],
         orders: [],
         users: []
